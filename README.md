@@ -9,6 +9,11 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULLAH-SHAHID01&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH-SHAHID01&layout=compact&theme=tokyonight)
+
+
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-shahid01/)
 [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:abdullah.01,shahid@gmail.com)
