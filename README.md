@@ -9,6 +9,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+
+
 <!--
 **Abdullah-Shahid01/abdullah-shahid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
