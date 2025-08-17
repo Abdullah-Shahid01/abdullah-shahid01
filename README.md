@@ -10,9 +10,8 @@
 
 
 ### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-shahid01/)
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:abdullah.01,shahid@gmail.com)
 
 
 <!--
