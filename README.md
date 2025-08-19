@@ -31,7 +31,8 @@
 
 
 ### 📊 GitHub Stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Shahid01&count_private=true&show_icons=true&theme=tokyonight)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Shahid01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=2)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shahid01&layout=compact&theme=tokyonight)
 
 
